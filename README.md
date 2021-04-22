@@ -7,5 +7,4 @@ lorem ipsum
 ##### Work hard, party harder
 
 
-
 ![alt text](lute_player__florentine__16th.jpg "Title")
