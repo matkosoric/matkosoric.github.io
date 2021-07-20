@@ -1,10 +1,8 @@
 # matkosoric.github.io
 
+[Link1](https://matkosoric.github.io/page1.md)
+
+
 ## testing test 1 2 3
 
-lorem ipsum
-
-##### Work hard, party harder
-
-
-![alt text](lute_player__florentine__16th.jpg "Title")
+![alt text](matko_soric_the_thing.png "The Thing")
