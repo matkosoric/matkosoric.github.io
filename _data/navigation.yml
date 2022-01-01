@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Books
+  url: /books/
+- title: Movies
+  url: /movies/
+- title: YouTube
+  url: /youtube/
+- title: Posts
+  url: /posts/
+- title: Categories
+  url: /categories/
+- title: Tags
+  url: /tags/
+- title: Search
+  url: /search/
