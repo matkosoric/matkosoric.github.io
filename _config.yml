@@ -19,10 +19,10 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Matko Sorić"
-description: "Random stuff"
+description: "Official fan page"
 baseurl: "/"
 url: "https://matkosoric.github.io"
-logo: "/images/so-simple-site-logo.png"
+logo: "/images/matkosoric-github-logo.png"
 date_format: "%B %-d, %Y"
 #read_time: true
 #words_per_minute: # 200
