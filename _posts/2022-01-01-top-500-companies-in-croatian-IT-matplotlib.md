@@ -1,6 +1,6 @@
 ---
 title: "Top 500 companies in Croatian IT - matplotlib"
-date: 2019-04-013T08:08:50-04:00
+date: 2019-04-13T08:08:50-04:00
 excerpt_separator: "<!--more-->"
 categories:
   - data visualization
