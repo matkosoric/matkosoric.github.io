@@ -8,5 +8,5 @@ tags:
     - YouTube
 ---
 
-[![Intro](https://img.youtube.com/vi/kwUgrSG_ZKI/0.jpg)](https://www.youtube.com/watch?v=kwUgrSG_ZKI "Everything Is AWESOME")
+[![Intro](https://img.youtube.com/vi/kwUgrSG_ZKI/0.jpg)](https://www.youtube.com/watch?v=kwUgrSG_ZKI "Title")
 
