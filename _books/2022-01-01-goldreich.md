@@ -1,8 +1,9 @@
 ---
 title: "Foundations of Cryptography: Volume 1: Basic Tools"
-excerpt: Cryptography textbook.
-image:
-  thumbnail: /images/book_covers/goldreich.jpg
+excerpt_separator: "<!--more-->"
+#excerpt: Cryptography textbook.
+#image:
+#  thumbnail: /images/book_covers/goldreich.jpg
 categories:
   - books
 tags:
@@ -14,6 +15,8 @@ tags:
 
 
 ![alt text](/images/book_covers/goldreich.jpg "Title"){: width="250" }
+
+<!--more-->
 
 Cryptography textbook in a highly formal, mathematical form.
 
