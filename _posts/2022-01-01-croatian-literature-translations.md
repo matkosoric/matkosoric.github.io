@@ -1,5 +1,5 @@
 ---
-title: "Compass and MongoDB with the Zagreb Surveillance Cameras dataset"
+title: "Visual Exploration of Croatian Literature Translations"
 date: 2019-04-07T08:08:50-04:00
 excerpt_separator: "<!--more-->"
 categories:
