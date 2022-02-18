@@ -7,5 +7,7 @@ image:
 excerpt: Total Recall on [**IMDB**](https://www.imdb.com/title/tt0100802/).
 ---
 
+![alt text](/images/movies/total_recall_2.png "Title"){: width="600" }
+
 Total Recall on [**IMDB**](https://www.imdb.com/title/tt0100802/).
 
