@@ -16,6 +16,8 @@ Translation is performed with Microsoft Azure's [Translator](https://azure.micro
 
 ![AWS Spanish Translation](https://raw.githubusercontent.com/matkosoric/amazon-sentiment-analysis-dataset-translations/master/aws_spanish.PNG?raw=true "Title"){: width="600" }
 
+<!--more-->
+
 Original text values have been sanitized from double quotes characters.
 English original with 150k entries is in **aws_sentiment_input.zip**.
 Column **sentiment_score** indicates review attitude for particular item on a scale from negative (1) to positive (5).
