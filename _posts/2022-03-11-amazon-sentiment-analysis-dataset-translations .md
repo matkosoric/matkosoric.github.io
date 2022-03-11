@@ -21,7 +21,7 @@ Data is probably skewed in terms of Amazon's shopping category, for which there 
 Each sentiment category on a scale from one to five contains slightly more than 30k entries.
 Translation is performed with Microsoft Azure's [Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/) cloud service.
 
-![AWS Spanish Translation](https://raw.githubusercontent.com/matkosoric/amazon-sentiment-analysis-dataset-translations/master/aws_spanish.PNG?raw=true "")
+![AWS Spanish Translation](https://raw.githubusercontent.com/matkosoric/amazon-sentiment-analysis-dataset-translations/master/aws_spanish.PNG?raw=true ""){: width="600" }
 
 [Repo link](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations)
 
