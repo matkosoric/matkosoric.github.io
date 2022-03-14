@@ -28,6 +28,19 @@ Data is probably skewed in terms of Amazon's shopping category, for which there 
 Each sentiment category on a scale from one to five contains slightly more than 30k entries.
 
 
+[German translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_german.parquet)
+
+[Spanish translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_spanish.parquet)
+
+
+  
+  
+Sentiment score distribution view from PowerBI:
+![AWS Spanish Translation](https://raw.githubusercontent.com/matkosoric/amazon-sentiment-analysis-dataset-translations/master/sentiment_distribution.PNG?raw=true "Title"){: width="600" }
+
+Review date from PowerBI:
+![AWS Spanish Translation](https://raw.githubusercontent.com/matkosoric/amazon-sentiment-analysis-dataset-translations/master/date_distribution.PNG?raw=true "Title"){: width="600" }
+
 [Repo link](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations)
 
 
