@@ -1,6 +1,5 @@
 ---
 title: "Computer Science courses"
-date: 2021-10-25T08:08:50-04:00
 excerpt_separator: "<!--more-->"
 categories:
   - Computer Science
