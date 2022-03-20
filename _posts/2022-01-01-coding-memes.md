@@ -12,10 +12,10 @@ A couple of coding memes.
 
 ![alt text](/images/memes/teams-file.jpeg "Title"){: width="600" }
 
-![alt text](/images/memes/git_random.jpg "Title"){: width="600" }
 
 <!--more-->
 
+![alt text](/images/memes/git_random.jpg "Title"){: width="600" }
 
 ![alt text](/images/memes/vim-exit.jpg "Title"){: width="600" }
 
