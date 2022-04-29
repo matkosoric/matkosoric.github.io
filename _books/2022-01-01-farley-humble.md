@@ -35,5 +35,5 @@ tags:
 > Software development is a naturally iterative process that thrives on the establishment of effective
 > feedback loops, and we deceive ourselves if we percieve it any other way. (Hummble & Farley 2011, 89)
 
-[O'Reilly](https://www.oreilly.com/library/view/microservices-up-and/9781492075448/)
+[Book link](https://martinfowler.com/books/continuousDelivery.html)
 
