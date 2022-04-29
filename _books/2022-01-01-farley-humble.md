@@ -14,7 +14,7 @@ tags:
 ## Jez Humble and David Farley
 
 
-![alt text](/images/book_covers/continous_delivery.jpg "Title"){: width="250" }
+![alt text](/images/book_covers/continuous_delivery.jpg "Title"){: width="250" }
 
 <!--more-->
 
