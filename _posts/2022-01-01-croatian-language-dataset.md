@@ -15,9 +15,9 @@ This is a dataset of sentences in Croatian language for anyone interested in Nat
 * 840 mb uncompressed size  
 * 460 mb snappy compressed ORC  
 
-<!--more-->
-
 ![alt text](https://raw.githubusercontent.com/matkosoric/Croatian-Language-Dataset/master/wordcloud.png?raw=true "Title"){: width="600" }
+
+<!--more-->
 
 [GitHub repo](https://github.com/matkosoric/Croatian-Language-Dataset/tree/master/sentences.snappy.orc)
 

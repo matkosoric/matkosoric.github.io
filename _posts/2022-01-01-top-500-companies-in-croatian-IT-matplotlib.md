@@ -17,6 +17,8 @@ First image clearly illustrates extremely dominating position of T-Com company.
 Following images are presenting the same data with different levels of zoom.
 Last figure is a bar chart, revealing Zagreb as a software center, and computer programming as a sole activity of companies in different cities.
 
+![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/matplotlib/Top500/1.CapitalProfitAndCompanySize.png?raw=true "Title"){: width="600" }
+
 <!--more-->
 
 ### Original DataSet
@@ -39,7 +41,6 @@ I was using the same data in Apache Superset project, but that images are mislea
 
 
 
-![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/matplotlib/Top500/1.CapitalProfitAndCompanySize.png?raw=true "Title"){: width="600" }
 
 ![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/matplotlib/Top500/2.CapitalProfitAndCompanySize.png?raw=true "Title"){: width="600" }
 

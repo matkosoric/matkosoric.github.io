@@ -10,11 +10,15 @@ tags:
   - ggplot2
 ---
 
+Here are several visualizations about violence rates created with R.
+
 Several percentages in a figure about a share of violent deaths are referencing only male population; to simplify, I neglected that information.
 
 Third figure illustrates the 'Recivilization of the 1990s' thesis, a period of violence decline. Pinker claims it is due to the increased incarceration: "The most effective was also the crudest: putting more men behind bars for longer stretches of time."; and increase in the police force: "In a stroke of political genius, President Bill Clinton undercut his conservative opponents in 1994 by supporting legislation that promised to add 100,000 officers to the nation’s police forces.", among other things.
 
 Fourth figure is adopted to the time scale of century instead of mid year, and the conflicts are ordered.
+
+![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/ggplot2/TheBetterAngelsofOurNature/1.Rate_of_Violent_Deaths.png?raw=true "Title"){: width="600" }
 
 Steven Pinker's book:
 [The Better Angels of Our Nature](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)
@@ -38,7 +42,6 @@ I copied the data for worldwide rate and share of violent deaths, and for rates 
 
 
 
-![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/ggplot2/TheBetterAngelsofOurNature/1.Rate_of_Violent_Deaths.png?raw=true "Title"){: width="600" }
 
 ![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/ggplot2/TheBetterAngelsofOurNature/2.Share_of_Violent_Deaths.png?raw=true "Title"){: width="600" }
 

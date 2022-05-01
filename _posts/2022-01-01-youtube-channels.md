@@ -9,13 +9,14 @@ tags:
 
 Useful YouTube channels for learning and keeping up with the community.
 
-<!--more-->
 
 [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)
 
 [CNCF](https://www.youtube.com/c/cloudnativefdn)
 
 [That DevOps Guy](https://www.youtube.com/c/MarcelDempers)
+
+<!--more-->
 
 [Derek Banas](https://www.youtube.com/c/derekbanas)
 

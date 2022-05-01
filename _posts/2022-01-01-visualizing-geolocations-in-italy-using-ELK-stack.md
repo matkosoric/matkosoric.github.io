@@ -13,7 +13,7 @@ tags:
 
 This is a demonstration of ELK stack geo-mapping capabilities.
 
-<!--more-->
+![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Elasticsearch/ItalyGeoLocations/1.NorthItaly.png?raw=true "Title"){: width="600" }
 
 ### The original Dataset
 
@@ -21,15 +21,14 @@ The presented data are a subset of geo points in a zip file for Europe (https://
 
 * [OpenAddresses data](http://results.openaddresses.io/)
 
-
 ### Created With
 
 * [ElasticSearch](https://www.elastic.co/) - ElasticSearch NoSQL engine
 * [Kibana](https://www.elastic.co/products/kibana) - Kibana visualization tool
 * [Logstash](https://www.elastic.co/products/logstash) - Logstash ingestion tool
 
+<!--more-->
 
-![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Elasticsearch/ItalyGeoLocations/1.NorthItaly.png?raw=true "Title"){: width="600" }
 
 ![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Elasticsearch/ItalyGeoLocations/2.BolognaFerrara.png?raw=true "Title"){: width="600" }
 

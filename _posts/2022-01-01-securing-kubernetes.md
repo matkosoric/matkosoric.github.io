@@ -8,7 +8,7 @@ tags:
   - security
 ---
 
-Kubernetes security
+Kubernetes security best practices guidelines
 
 
 <!--more-->

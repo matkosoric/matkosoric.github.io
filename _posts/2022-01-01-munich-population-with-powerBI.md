@@ -9,6 +9,9 @@ tags:
   - PowerBI
 ---
 
+Visualization on Munich population grouped by districts.
+
+![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/PowerBI/Munich/2.munich_residents_by_district.PNG?raw=true "Title"){: width="600" }
 
 <!--more-->
 
@@ -25,8 +28,6 @@ tags:
 
 
 ![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/PowerBI/Munich/1.munich_population_density_by_district.PNG?raw=true "Title"){: width="600" }
-
-![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/PowerBI/Munich/2.munich_residents_by_district.PNG?raw=true "Title"){: width="600" }
 
 
 

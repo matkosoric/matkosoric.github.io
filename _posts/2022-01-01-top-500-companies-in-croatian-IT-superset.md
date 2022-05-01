@@ -17,6 +17,8 @@ Fourth image is a word cloud that counts employees in each city and presents the
 Fifth is a chord diagram that connects company location with activity. Again, presence of Zagreb and programming is easily notceable.
 Sixth image is a bubble chart. Each data point represents one company. X axis is mapped to a value of 'Capital and reserves'. Y axis is mapped to the annual revenue. Scales are logarithmically adjusted. Bubble size is linked to the number of employees in the company, while bubble color is linked to the activity type. Presence of red coloer indicated 'Computer programming' category. Big purple circle in the middle is Croatian Telecom (Hrvatski Telekom). Big bluish circle in the bottom right corner is VipNet. Since SuperSet reads these numbers as strings, ratios are not correct, and the same figure should be done properly with another tool.
 
+![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Superset/Top500/1.dashboard.png?raw=true "Title"){: width="600" }
+
 <!--more-->
 
 ### Original DataSet
@@ -33,11 +35,6 @@ Some companies did not make it to final list intentionally, so that the combined
 * [Apache Superset](https://superset.incubator.apache.org/)
 
 
-
-
-
-
-![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Superset/Top500/1.dashboard.png?raw=true "Title"){: width="600" }
 
 ![alt text](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Superset/Top500/2.companies_by_city.png?raw=true "Title"){: width="600" }
 
