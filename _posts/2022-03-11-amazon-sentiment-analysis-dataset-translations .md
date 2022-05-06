@@ -32,6 +32,7 @@ Each sentiment category on a scale from one to five contains slightly more than 
 
 [Spanish translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_spanish.parquet)
 
+[Croatian translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_croatian.parquet)
 
   
   
