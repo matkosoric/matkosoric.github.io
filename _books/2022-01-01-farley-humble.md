@@ -102,7 +102,46 @@ tags:
 > no technology cann be considered genuinely enterprise-ready unless it is capable of being deployed and configured
 > in an automated way (Humble & Farley 2011, 297)
 
->
+> ... application developers need to make the IP addresses that their application listens on configurable
+> at deploy time (Humble & Farley 2011, 302).
+
+> ... it should be quicker to provision a new environment than debug and fix one that's in an unknown state due to
+> uncontrolled changes ...(Humble & Farley 2011, 306)
+
+> The purpose of the deployment pipeline is to put every change you make to your application through your automated
+> build, deploy, and test process to verify its fitness for release (Humble & Farley 2011, 308)
+
+> Logging, which is part of auditability, should be treated as a first-level set of requirements, the same as any
+> other nonfunctional requirements (Humble & Farley 2011, 320)
+
+> Continuous integration demands that we are able to keep the application working after every change made to it.
+> This includes changes to the structure or content of our data
+> (Humble & Farley 2011, 327)
+
+> ... the commonest problem that causes difficulty is changing the database schema. If such changes are additive, in
+> that they create new relationships, you are mostly fine - unless you do things like adding constraints that existing
+> data violates, or adding new objects without default values (Humble & Farley 2011, 329).
+
+> For database-related tests, we create a transaction at the beginning of the test, perform all of the operations and
+> interactions with the database that we require within that transaction, and at the conclusion of the test
+> (whether it passed or not), we roll back the transaction (Humble & Farley 2011, 337).
+
+> Continuous delivery provides the ability to release new, working version of your software several times a day. This
+> means you have to keep you application releasable at all times (Humble & Farley 2011, 345).
+
+> When we talk about components, we mean a reasonably large-scale code structure within an application, with a
+> well-defined API, that could potentially be swapped out for another implementation (Humble & Farley 2011, 345).
+
+> Organize teams by functional area rather than by component, ensure that everybody has the right to change any part 
+> of the codebase, rotate people between teams regularly, and ensure that there is good communication between teams
+> (Humble & Farley 2011, 358).
+
+> ... computing power is ultimately cheap compared to humans performing forensics (Humble & Farley 2011, 363).
+
+> The most important property of an artifact repository is that it should not contain anything that cannot be
+> reproduced (Humble & Farley 2011, 373).
+
+> 
 
 [Book link](https://martinfowler.com/books/continuousDelivery.html)
 
