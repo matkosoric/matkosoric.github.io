@@ -17,7 +17,7 @@ tags:
 ## James F. Kurose & Keith Ross
 
 
-![alt text](/images/book_covers/wang.jpg "Title"){: width="250" }
+![alt text](/images/book_covers/computer_networking_top_down_approach.jpg "Title"){: width="250" }
 
 <!--more-->
 
