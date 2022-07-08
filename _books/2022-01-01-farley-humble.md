@@ -71,7 +71,7 @@ tags:
 
 > ...*performance* is a measure of the time taken to process a single transaction, and can be measured either in 
 > isolation or under load. *Throughput* is the number of transactions a system can process in a given timespan. 
-> It is always limited  by some bottleneck in the system. The maximum throughput a system can sustain, for a given
+> It is always limited by some bottleneck in the system. The maximum throughput a system can sustain, for a given
 > workload, while maintaining an acceptable response time for each individual request, is its *capacity*. 
 > (Humble & Farley 2011, 225)
 
@@ -99,14 +99,14 @@ tags:
 > care and attention as the rest of the application, and kept in version control. (Humble & Farley 2011, 283)
 
 > ... the success of a project can often turn on its ability to be deployed cleanly and reliably. In our view,
-> no technology cann be considered genuinely enterprise-ready unless it is capable of being deployed and configured
+> no technology can be considered genuinely enterprise-ready unless it is capable of being deployed and configured
 > in an automated way (Humble & Farley 2011, 297)
 
 > ... application developers need to make the IP addresses that their application listens on configurable
 > at deploy time (Humble & Farley 2011, 302).
 
 > ... it should be quicker to provision a new environment than debug and fix one that's in an unknown state due to
-> uncontrolled changes ...(Humble & Farley 2011, 306)
+> uncontrolled changes ... (Humble & Farley 2011, 306)
 
 > The purpose of the deployment pipeline is to put every change you make to your application through your automated
 > build, deploy, and test process to verify its fitness for release (Humble & Farley 2011, 308)
@@ -127,7 +127,7 @@ tags:
 > (whether it passed or not), we roll back the transaction (Humble & Farley 2011, 337).
 
 > Continuous delivery provides the ability to release new, working version of your software several times a day. This
-> means you have to keep you application releasable at all times (Humble & Farley 2011, 345).
+> means you have to keep your application releasable at all times (Humble & Farley 2011, 345).
 
 > When we talk about components, we mean a reasonably large-scale code structure within an application, with a
 > well-defined API, that could potentially be swapped out for another implementation (Humble & Farley 2011, 345).
@@ -140,8 +140,6 @@ tags:
 
 > The most important property of an artifact repository is that it should not contain anything that cannot be
 > reproduced (Humble & Farley 2011, 373).
-
-> 
 
 [Book link](https://martinfowler.com/books/continuousDelivery.html)
 
