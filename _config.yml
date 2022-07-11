@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Matko Sorić"
-description: "Official fan page"
+description: "Portfolio overview"
 baseurl: "/"
 url: "https://matkosoric.github.io"
 logo: "/images/matkosoric-github-logo.png"
