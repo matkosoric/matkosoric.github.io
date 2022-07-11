@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes security"
 excerpt_separator: "<!--more-->"
+hidden: true
 categories:
   - Kubernetes
 tags:

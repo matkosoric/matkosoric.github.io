@@ -1,6 +1,7 @@
 ---
 title: "Software engineering at Google - book link"
 excerpt_separator: "<!--more-->"
+hidden: true
 categories:
   - books
 tags:

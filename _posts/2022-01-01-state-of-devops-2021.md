@@ -1,6 +1,7 @@
 ---
 title: "State of DevOps 2021"
 excerpt_separator: "<!--more-->"
+hidden: true
 categories:
   - DevOps
 tags:
