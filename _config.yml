@@ -22,7 +22,7 @@ title: "Matko Sorić"
 description: "Portfolio overview"
 baseurl: "/"
 url: "https://matkosoric.github.io"
-logo: "/images/matkosoric-github-logo.png"
+logo: "/images/dish.png"
 date_format: "%B %-d, %Y"
 #read_time: true
 #words_per_minute: # 200
@@ -87,13 +87,13 @@ collections:
 #  recipes:
 #    output: true
 #    permalink: /:collection/:path/
-  books:
-    output: true
-    permalink: /:collection/:path/
 #  movies:
 #    output: true
 #    permalink: /:collection/:path/
   youtube:
+    output: true
+    permalink: /:collection/:path/
+  books:
     output: true
     permalink: /:collection/:path/
 
