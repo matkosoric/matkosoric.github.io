@@ -1,6 +1,5 @@
 ---
 title: Movies
-hidden: true
 layout: collection
 permalink: /movies/
 collection: movies

@@ -90,9 +90,9 @@ collections:
   books:
     output: true
     permalink: /:collection/:path/
-  movies:
-    output: true
-    permalink: /:collection/:path/
+#  movies:
+#    output: true
+#    permalink: /:collection/:path/
   youtube:
     output: true
     permalink: /:collection/:path/

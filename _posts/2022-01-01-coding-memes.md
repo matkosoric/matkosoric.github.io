@@ -1,6 +1,7 @@
 ---
 title: "Coding memes"
 excerpt_separator: "<!--more-->"
+hidden: true
 categories:
   - memes
 tags:
