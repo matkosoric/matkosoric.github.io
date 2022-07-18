@@ -132,13 +132,13 @@ defaults:
       comments: true
       share: true
   #  defaults
-  - scope:
-      path: "_movies"
-      type: movies
-    values:
-      layout: post
-      comments: true
-      share: true
+#  - scope:
+#      path: "_movies"
+#      type: movies
+#    values:
+#      layout: post
+#      comments: true
+#      share: true
 
 # Site Author
 author:
