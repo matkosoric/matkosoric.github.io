@@ -16,6 +16,8 @@ A couple of coding memes.
 
 <!--more-->
 
+![alt text](/images/memes/data_castle.jpg "Title"){: width="600" }
+
 ![alt text](/images/memes/git_random.jpg "Title"){: width="600" }
 
 ![alt text](/images/memes/vim-exit.jpg "Title"){: width="600" }
