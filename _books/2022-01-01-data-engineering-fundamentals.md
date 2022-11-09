@@ -19,17 +19,13 @@ tags:
 
 ## Joe Reis & Matt Housley
 
-Overview of Data engineering field covering typically used skills, activities, workflows, lifecycles,
-organizations, and architecture, while abstracting away concrete tools and technologies that might become obsolete soon
-and striving for durability.  
-
-.
-
 ![alt text](/images/book_covers/data_engineering_fundamentals.jpg "Title"){: width="250" }
 
 <!--more-->
 
-
+Overview of Data engineering field covering typically used skills, activities, workflows, lifecycles,
+organizations, and architecture, while abstracting away concrete tools and technologies that might become obsolete soon
+and striving for durability.
 
 [O'Reilly](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 

@@ -12,14 +12,14 @@ tags:
 
 ## Ralph Kimball & Margy Ross
 
+![alt text](/images/book_covers/data_warehouse_toolkit.jpg "Title"){: width="250" }
+
+<!--more-->
+
 Classical book on dimensional modeling with detailed case studies in areas such as retail, inventory,
 procurement, order management, accounting, customer relationship management, human resources management,
 financial services, telecommunications, transportation, education, healthcare, electronic commerce,
 and insurance.
-
-![alt text](/images/book_covers/data_warehouse_toolkit.jpg "Title"){: width="250" }
-
-<!--more-->
 
 > Simplicity is the fundamental key that allows users to easily understand databases and software to efficiently
 > navigate databases. In many ways, dimensional modeling amounts to holding the fort against assaults on simplicity.
