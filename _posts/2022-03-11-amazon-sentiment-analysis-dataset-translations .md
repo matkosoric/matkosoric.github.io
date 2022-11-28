@@ -34,7 +34,18 @@ Each sentiment category on a scale from one to five contains slightly more than 
 
 [Croatian translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_croatian.parquet)
 
-  
+[Bengali translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_bengali.parquet)
+
+[Dutch translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_dutch.parquet)
+
+[Italian translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_italian.parquet)
+
+[Norwegian translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_norwegian.parquet)
+
+[Arabic translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_arabic.parquet)
+
+[French translation (parquet file)](https://github.com/matkosoric/amazon-sentiment-analysis-dataset-translations/blob/main/translations/aws_french.parquet)
+
   
 Sentiment score distribution view from PowerBI:
 ![AWS Spanish Translation](https://raw.githubusercontent.com/matkosoric/amazon-sentiment-analysis-dataset-translations/master/sentiment_distribution.PNG?raw=true "Title"){: width="600" }
