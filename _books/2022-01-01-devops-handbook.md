@@ -20,7 +20,7 @@ Concentrated DevOps culture guidebook.
 
 > Analogous to financial debt, technical debt describes how decisions we make lead to problems that get increasingly
 > more difficult to fix over time, continually reducing our available options in the future - even when taken on
-> judiciously, we still incur interes. (Kim, Humble, Debois & Willis 2021, xxxii-xxxiii)
+> judiciously, we still incur interest. (Kim, Humble, Debois & Willis 2021, xxxii-xxxiii)
 
 > Our goal is to decrease the amount of time required for changes to be deployed into production and to increase the
 > reliability and quality of those services. (Kim, Humble, Debois & Willis 2021, 19)
@@ -46,7 +46,7 @@ Concentrated DevOps culture guidebook.
 > ... how we organize our teams has a powerful effect on the software we produce, as well as our resulting
 > architectural and production outcomes. (Kim, Humble, Debois & Willis 2021, 97)
 
-> When every team expedites their work, the net result is that every project ends up moving at the same slow crowl.
+> When every team expedites their work, the net result is that every project ends up moving at the same slow crawl.
 > (Kim, Humble, Debois & Willis 2021, 101)
 
 > In high-performance organizations, everyone within team shares a common goal - quality, availability, and security
@@ -66,10 +66,10 @@ Concentrated DevOps culture guidebook.
 > (Kim, Humble, Debois & Willis 2021, 160)
 
 > Our goal is to write and run automated performance tests that validate our performance across the entire application
-> stack (code, database, storage, network, virtualization, etc.) as part of the deployment pipeline so we detect
+> stack (code, database, storage, network, virtualization, etc.) as part of the deployment pipeline, so we detect
 > problems early, when the fixes are cheapest and fastest. (Kim, Humble, Debois & Willis 2021, 162)
 
-> ... significant problems resultwhen developers work in long-lived private branches (also known as 'feature branches'),
+> ... significant problems result when developers work in long-lived private branches (also known as 'feature branches'),
 > only merging back into trunk sporadically, resulting in a large batch-size of changes.
 > (Kim, Humble, Debois & Willis 2021, 170)
 
@@ -90,7 +90,7 @@ Concentrated DevOps culture guidebook.
 > The primary way we enable application-based release patterns is by implementing feature toggles (also called feature
 > flags), which provide us with the mechanism to selectively enable and disable  features without requiring a production
 > code deployment. Feature toggles can also control which features are visible and available to specific user segments
-> (e.g., internal emplloyees, segments of customers). (Kim, Humble, Debois & Willis 2021, 195-196)
+> (e.g., internal employees, segments of customers). (Kim, Humble, Debois & Willis 2021, 195-196)
 
 > The strangler fig application pattern is especially useful for helping migrate portions of a monolithic application
 > or tightly coupled services to one that is more loosely coupled. (Kim, Humble, Debois & Willis 2021, 208)
@@ -113,7 +113,7 @@ Concentrated DevOps culture guidebook.
 > By making telemetry fast, easy to get, and sufficiently centralized, everyone in the value stream can share a common
 > view of reality. (Kim, Humble, Debois & Willis 2021, 236)
 
-> More exotic filtering techniques exist, such as fast furier transforms, which has been widely used in image
+> More exotic filtering techniques exist, such as fast Fourier transforms, which has been widely used in image
 > processing, and the Kolmogorov-Smirnov test (found in Graphite and Grafana), which is often used to find similarities
 > or differences in periodic/seasonal metric data. (Kim, Humble, Debois & Willis 2021, 254)
 
@@ -136,7 +136,7 @@ Concentrated DevOps culture guidebook.
 > When we work within complex systems, this need to amplify weak failure signals is critical to averting 
 > catastrophic failures. (Kim, Humble, Debois & Willis 2021, 313)
 
-> Our goal for game day is to help teams simulate and rehears accidents to give them the abbility to practice. First,
+> Our goal for game day is to help teams simulate and rehears accidents to give them the ability to practice. First,
 > we schedule a catastrophic event, such as the simulated destruction of an entire data center, to happen at some
 > point in the future. We then give teams time to prepare, to eliminate all the single points of failure, and to
 > create the necessary monitoring procedures, failover procedures, etc. (Kim, Humble, Debois & Willis 2021, 317)
@@ -146,7 +146,7 @@ Concentrated DevOps culture guidebook.
 > fail. Examples of non-functional requirements include ensuring that we have:
 > 
 > \* sufficient production telemetry in our applications and environments
-> \* the abbility to accurately track dependencies
+> \* the ability to accurately track dependencies
 > \* services that are resilient and degrade gracefully
 > \* forward and backward compatibility between versions
 > \* the ability to archive data to manage the size of the production data set

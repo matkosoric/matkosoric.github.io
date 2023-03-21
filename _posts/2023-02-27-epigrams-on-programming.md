@@ -7,7 +7,6 @@ tags:
   - programming history
   - Alan Perlis
   - Turing Award
-  - 
 ---
 
 120 aphorisms on programming, written in 1982 and with many of them still surprisingly valid, some of which are:

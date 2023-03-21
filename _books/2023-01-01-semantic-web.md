@@ -4,8 +4,10 @@ excerpt_separator: "<!--more-->"
 categories:
   - books
 tags:
-  - interview
-
+  - SPARQL
+  - linked data
+  - semantic web
+  - OWL
 ---
 
 

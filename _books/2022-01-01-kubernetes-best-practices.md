@@ -8,7 +8,7 @@ tags:
   - Docker
   - CICD
   - RBAC
-  - best practices
+  - best practice
   - service mesh
 ---
 
