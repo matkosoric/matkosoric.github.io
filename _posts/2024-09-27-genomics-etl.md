@@ -34,7 +34,7 @@ ADF pipeline execution 2:
 Official Microsoft CICD diagram:
 ![alt text](/images/posts/genomics-etl-4.PNG "Title"){: width="600" }
 
-Postgres view:
+Postgres view:  
 ![alt text](/images/posts/genomics-etl-5.PNG "Title"){: width="600" }
 
 
