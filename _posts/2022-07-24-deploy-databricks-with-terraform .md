@@ -18,7 +18,7 @@ Node type will be the smallest one, and Spark version the latest one with long t
 You will be able to log in automatically with your SSO user.
 Auto-termination is set to 20 minutes.
 
-![Databricks logo](/images/posts/databricks-logo.jpg "Title"){: width="600" }
+![Databricks logo](/images/posts/databricks-logo.jpg "Title"){: width="400" }
 
 <!--more-->
 
