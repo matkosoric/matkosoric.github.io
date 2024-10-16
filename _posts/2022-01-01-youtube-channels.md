@@ -9,14 +9,17 @@ tags:
 
 Useful YouTube channels for learning and keeping up with the community.
 
+[Continuous Delivery](https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g)
+
+[GOTO Conferences](https://www.youtube.com/user/gotoconferences)
 
 [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)
 
-[CNCF](https://www.youtube.com/c/cloudnativefdn)
-
-[That DevOps Guy](https://www.youtube.com/c/MarcelDempers)
-
 <!--more-->
+
+[Data with Zach](https://www.youtube.com/@EcZachly_)
+
+[Seattle Data Guy](https://www.youtube.com/@SeattleDataGuy)
 
 [Derek Banas](https://www.youtube.com/c/derekbanas)
 
@@ -24,9 +27,11 @@ Useful YouTube channels for learning and keeping up with the community.
 
 [MLOps.community](https://www.youtube.com/c/MLOpscommunity)
 
-[GOTO Conferences](https://www.youtube.com/user/gotoconferences)
+[CNCF](https://www.youtube.com/c/cloudnativefdn)
 
 [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+
+[That DevOps Guy](https://www.youtube.com/c/MarcelDempers)
 
 [InfoQ](https://www.youtube.com/nctv)
 
