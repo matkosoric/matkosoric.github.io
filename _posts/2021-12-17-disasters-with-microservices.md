@@ -1,5 +1,5 @@
 ---
-title: "Continuous Deployment at IMVU: Doing the impossible fifty times a day"
+title: "Disasters I've seen in a microservices world"
 hidden: true
 categories:
   - blogs
