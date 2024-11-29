@@ -18,7 +18,7 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "Matko Sorić"
+title: "Matko Soric"
 description: "Portfolio overview & coding links"
 baseurl: "/"
 url: "https://matkosoric.github.io"
@@ -142,7 +142,7 @@ defaults:
 
 # Site Author
 author:
-  name: Matko Sorić
+  name: Matko Soric
   picture: /images/matko_soric.jpg
   email: soric.matko@gmail.com
   links:
