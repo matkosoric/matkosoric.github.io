@@ -6,7 +6,7 @@ categories:
   - security
 tags:
   - security
-  - best practices
+  - best practice
   - cloud
   - CIS
 ---

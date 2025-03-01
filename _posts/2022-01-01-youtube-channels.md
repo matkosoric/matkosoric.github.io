@@ -1,6 +1,7 @@
 ---
 title: "Useful Youtube channels"
 excerpt_separator: "<!--more-->"
+hidden: true
 categories:
   - youtube
 tags:

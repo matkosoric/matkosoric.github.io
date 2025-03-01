@@ -7,6 +7,7 @@ tags:
   - data warehouse
   - dimensional modeling
   - ETL
+  - star schema
 ---
 
 

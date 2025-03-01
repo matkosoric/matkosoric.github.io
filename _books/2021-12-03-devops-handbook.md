@@ -6,7 +6,6 @@ categories:
 tags:
   - DevOps
   - Agile
-  - 
 ---
 
 

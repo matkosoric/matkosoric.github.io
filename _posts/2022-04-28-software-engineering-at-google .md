@@ -6,9 +6,9 @@ categories:
   - books
 tags:
   - Google
-  - best practices
+  - best practice
   - software engineering
 ---
 
-Link to a O'Reilly book [Software engineering at Google](https://abseil.io/resources/swe-book)
+Link to O'Reilly book [Software engineering at Google](https://abseil.io/resources/swe-book)
 

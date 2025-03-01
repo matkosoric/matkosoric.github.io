@@ -25,7 +25,7 @@ over credentials management and continuous deployment, to networking and securit
 > A Kubernetes cluster consists of control-plane components and worker-node components.
 > The control-plane components consist of the API server, etcd, scheduler, and controller manager.
 > The worker-plane components consist of the kubelet, container runtime, kube-proxy, kube-dns, and pods.
-> (Burns, Villalba, Strebel & Evenson 2020 , 37)
+> (Burns, Villalba, Strebel & Evenson 2020, 37)
 
 
 

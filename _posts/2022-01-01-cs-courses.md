@@ -1,5 +1,6 @@
 ---
 title: "Computer Science courses"
+hidden: true
 excerpt_separator: "<!--more-->"
 categories:
   - Computer Science
