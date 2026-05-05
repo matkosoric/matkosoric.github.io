@@ -18,11 +18,11 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "Matko Soric"
+title: "Matko \"Matt\" Soric"
 description: "Portfolio overview & coding links"
 baseurl: "/"
 url: "https://matkosoric.github.io"
-logo: "/images/dish.png"
+logo: "/images/matko_soric_profil.jpg"
 date_format: "%B %-d, %Y"
 #read_time: true
 #words_per_minute: # 200
@@ -142,7 +142,7 @@ defaults:
 
 # Site Author
 author:
-  name: Matko Soric
+  name: Matko "Matt" Soric
   picture: /images/matko_soric.jpg
   email: soric.matko@gmail.com
   links:
